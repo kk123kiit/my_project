@@ -1,0 +1,102 @@
+{
+   "Beverages": [
+      {
+         "price": 70,
+         "name": "Cold Coffee",
+         "discount" : "50",
+         "itemId":"2",
+         "image":"coldcoffee.jpg",
+         "tax":"5"
+      },
+      
+      {
+         "price": 110,
+         "name": "Coke Large",
+         "discount" : "10",
+         "itemId":"3",
+         "image":"coke2.jpg",
+         "tax":"3"
+      },
+      
+      {
+         "price": 70,
+         "name": "Hot Coffee",
+         "discount" : "20",
+         "itemId":"4",
+         "image":"hot_coffee2.jpg",
+         "tax":"5"
+      },
+
+      {
+         "price": 379,
+         "name": "Kingfisher Premium",
+         "discount" : "15",
+         "itemId":"10",
+         "image":"kingfisher.jpeg",
+         "tax":"5"
+      },
+
+      {
+         "price": 379,
+         "name": "Domestic Vodka",
+         "discount" : "5",
+         "itemId":"11",
+         "image":"vodka.jpg",
+         "tax":"10"
+      },
+      
+      {
+         "price": 229,
+         "name": "Kingfisher Blu",
+         "discount" : "0",
+         "itemId":"12",
+         "image":"kingfisher.jpg",
+         "tax":"3"
+      }
+   ],
+   "FastFood": [
+      {
+        "price": 130,
+        "name": "Pasta",
+        "discount" : "35",
+        "itemId":"1",
+        "image":"pasta1.jpg",
+        "tax":"10"
+      },
+      {
+         "price": 90,
+         "name": "Hot Dog",
+         "discount" : "20",
+         "itemId":"7",
+         "image":"hotdog2.jpg",
+         "tax":"5"
+      },
+      {
+         "price": 50,
+         "name": "Samosa",
+         "discount" : "0",
+         "itemId":"8",
+         "image":"samosa1.jpg",
+         "tax":"1"
+      },
+      
+      {
+         "price": 80,
+         "name": "Veg Sandwhich",
+         "discount" : "10",
+         "itemId":"9",
+         "image":"sandwitche1.jpg",
+         "tax":"5"
+      },
+
+      {
+         "price": 15,
+         "name": "Chocolate",
+         "discount" : "40",
+         "itemId":"6",
+         "image":"choclate1.png",
+         "tax":"5"
+      }
+
+   ]
+}
